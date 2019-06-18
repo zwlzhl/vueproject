@@ -6,6 +6,7 @@
   后台：npm start
   ```
 # 项目结构
+ ```
  myApp
   ├── README.md            项目介绍
   ├── index.html           入口页面
@@ -72,4 +73,4 @@
   └── dist               打包文件
      ├── static            
      └── index.html     
-#
+  ```
