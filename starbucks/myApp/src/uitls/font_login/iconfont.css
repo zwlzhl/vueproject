@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1560149738165'); /* IE9 */
+  src: url('iconfont.eot?t=1560149738165#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAARQAAsAAAAACIgAAAQDAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqEaIQPATYCJAMMCwgABCAFhG0HQBtfB8gOJQmJwABgAABgBNV+nz27+x4fB4BU6nwIFKBKRUUBlv82hM7GsVAp/1VIyBvMzVLwMpfM1JETA9aCl5VyIvZStYnqG5/nmnopvvpAc4lqzfajvQGOBzSgbhw1SGmADJDHumHs8iK3E+htEQw5mVvMBxyF3i8QdxQyMeAk7EpFaWiFumBqEW8AU5ue0n4AXnufj9/gcHBIqkwfeuF2TjVInyLTs/SNxo0WOQRQDOcFm0XGIUAhbhb6b6AH8UPoelnPqM6tFSENFTIa8eSKtjb+8EiCqOn6EbH7EokpYskjw1moPGrFxb1eo8EXIMYBfg2VtNqUO7tsk6MKsOGBKwTQK3suI04iAVJfa7Owtpdf1ydoGBDV9wv5e55ufLL72abn8/lC0fFjdsKsgKspN2vFB2v59Rd46LNjzocf2vIOPncvDj1Qm40e+OWJ8D7UxYhQZIg95YkiJ37lwQaRwOVyj2DhgSM2R04GXP1o+7Ah6PDroGf12R80DSMoR5NEQyQ3avMffPj07JqTrd2hY6bG3mh9+LT96wafPXUFp+87m/Qo6/VKnw7zeAa9YVLLr6sbtnna/jSIBHEPEZcaIN2kQb5m+XmXzwYW3vQ7Yl34jTE7W34yfjhSWxZJoOYnlMDs/z0O5hHm4dbzVqRWXpsXb9hw9gQQnucfPODZi54ZmOfjLcqj54JOxmba/qcWQHPAMrFkV4EXP8qCD2nZ8QJbdlEE0E1cNibAqND0NJfyQsvwtCyrwgKrR65ePuG7QV/q9tmQjGMIVjYpLnbt/5xZ+Fnlc+f+3yN+i4CyaoSwESaY2yCzEd/eBNTX5C7LPDW7IK2cWzfa9PIRzdsmg8Osh41hU0ZJpcVZf9J5S2eZKMrjVNZrj9eZLAVaVPXb43fWJbqr2jdvIXxXCNIBrJzJnfRbP8B3LJ4X7l9qnjzHGQr45e0+7E1Z2VhAngCglWiseN2KhhVFUemOXCS5JddS2V3MmymFUs7gJZfDovbuwdVA5A0tp4BIGpuRtXaRhT2EymAZtdYR9A7Kmz1YQqKL0uGAbQBh3m0ksz4jm/eTLGwbKmuMoTYfdPSuhfWSgz2hQLNITExh1VCyCiqkhBY3XRTql1ZiMoNaTMZVHk+IkXpFCEaEhqdTeZgWI4cYoV8ui6QoHOIkoYG5YDdMrSagjiSUmJQKlVOULjEsDC86UKiU0ADUCSSMGAVTDZJYBVKQImjhTm0Kmnl/JYyMgZoYWcEpiwthSHqKxqEIocIbkHl6bSPOpeyjt5xMJAoFB+FIBA0oF3gxaiNOgHTFnZQwUpRQ8g5RnURhqBreVB86vVFzf+ugpzfPkSJHMTwRExKzVYiU0K3irJYrcEPCBgAA') format('woff2'),
+  url('iconfont.woff?t=1560149738165') format('woff'),
+  url('iconfont.ttf?t=1560149738165') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1560149738165#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-taobao-copy:before {
+  content: "\e5a1";
+}
+
+.icon-zhifubao:before {
+  content: "\e501";
+}
+
